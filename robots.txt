@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://you-bet-podcast.github.io/sitemap.xml
